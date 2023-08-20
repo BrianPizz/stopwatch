@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&family=Orbitron:wght@500&display=swap');
 body {
     background-color: #edeaff;
-    font-family: 'Courier Prime', monospace;
+    font-family: 'Orbitron', sans-serif;
 }
 .stopwatch{
     width: 90%;
